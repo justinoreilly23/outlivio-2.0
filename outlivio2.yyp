@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "81cf5a7b-09d7-46d1-a83c-f69e1dd7703d",
+            "Value": {
+                "id": "0f7177ce-ada9-4924-a5f0-198cd6e982eb",
+                "resourcePath": "scripts\\default_binds\\default_binds.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "88a401dc-8ee1-47d6-b09e-a24f56eb5587",
             "Value": {
                 "id": "a5a01be5-e379-46b4-8e52-f9db2cb091c6",
@@ -204,6 +212,14 @@
                 "id": "c026522a-1479-4603-ad2a-15c8f237509e",
                 "resourcePath": "views\\8d9ada82-b529-4690-bed1-a31eaf117b17.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93c037d5-6b16-4b46-b440-c88d1c1f39b1",
+            "Value": {
+                "id": "443440c9-913b-4b2b-bcee-503f1f8172e0",
+                "resourcePath": "objects\\User\\User.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,6 +303,14 @@
             }
         },
         {
+            "Key": "bb97117c-e3dd-4821-b5c1-333ae283f1c0",
+            "Value": {
+                "id": "40446e89-1a95-41d2-b758-5bbc97048aab",
+                "resourcePath": "scripts\\get_user_binds\\get_user_binds.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "bd00c6d4-b6a1-47c9-9cdf-82534ab6f24b",
             "Value": {
                 "id": "d7a0bb21-81d2-4835-883c-b14e9f27700a",
@@ -308,6 +332,14 @@
                 "id": "b79cb31e-091f-4540-a91c-99060a08af07",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cebd8a42-87c8-439c-a39c-9ae1fc0e6453",
+            "Value": {
+                "id": "97f94f2e-72ac-4751-a364-f08a820ed8b7",
+                "resourcePath": "objects\\DefaultSettings\\DefaultSettings.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -377,6 +409,8 @@
     ],
     "script_order": [
         "b02275bd-09f9-4c4f-8a7d-f1bf06536b86",
+        "81cf5a7b-09d7-46d1-a83c-f69e1dd7703d",
+        "bb97117c-e3dd-4821-b5c1-333ae283f1c0",
         "aa92a143-fd9b-42f9-ae0e-ab44e46f2cf0",
         "d890c4d1-327a-4691-8ac4-356b7deb836f",
         "34116452-456b-43c2-97e3-d20db69024a5"
