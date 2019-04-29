@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "User",
     "eventList": [
-        
+        {
+            "id": "736012f9-ea60-4865-9976-d613b20e3e9c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "93c037d5-6b16-4b46-b440-c88d1c1f39b1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

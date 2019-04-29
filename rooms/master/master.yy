@@ -2,13 +2,13 @@
 {
     "name": "master",
     "id": "5cc759c6-1b9f-44a8-afcf-ca5b773ea4f4",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "bb8731b4-ef6e-486b-a340-e82d51c26d02",
         "89bcf50a-b09f-469f-868b-05936ed0ddb9",
+        "bb8731b4-ef6e-486b-a340-e82d51c26d02",
         "c73973f9-4072-43e7-82d0-08db4ad0e678"
     ],
     "IsDnD": false,

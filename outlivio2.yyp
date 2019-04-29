@@ -71,6 +71,22 @@
             }
         },
         {
+            "Key": "23130c10-1cc6-46c9-a380-381d68486b22",
+            "Value": {
+                "id": "583cd87c-b7d9-4d4b-bedb-d09535e11e54",
+                "resourcePath": "objects\\Controllable\\Controllable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "24b16802-42da-4fbe-84a2-5b3cf45c9d36",
+            "Value": {
+                "id": "121ed6ca-002e-46a8-92fd-1b9cd780220b",
+                "resourcePath": "objects\\Player\\Player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2b22bca4-b180-4d1e-8c96-62feb8188cc0",
             "Value": {
                 "id": "06bba554-ce71-4954-a1f1-73df0b4cc607",
@@ -108,14 +124,6 @@
                 "id": "963629e9-b074-4ef0-b689-8e5c5d1f0581",
                 "resourcePath": "views\\5cc759c6-1b9f-44a8-afcf-ca5b773ea4f4-room.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "4ddc97cd-13df-4450-a272-6f80f0992d2a",
-            "Value": {
-                "id": "39d8d5bf-98d9-4c62-848b-d85d789a930c",
-                "resourcePath": "objects\\Player\\Player.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -306,7 +314,7 @@
             "Key": "bb97117c-e3dd-4821-b5c1-333ae283f1c0",
             "Value": {
                 "id": "40446e89-1a95-41d2-b758-5bbc97048aab",
-                "resourcePath": "scripts\\get_user_binds\\get_user_binds.yy",
+                "resourcePath": "scripts\\configGetKeybinds\\configGetKeybinds.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -364,14 +372,6 @@
                 "id": "f73dfad4-f107-4ba2-81e9-7f8757da8a73",
                 "resourcePath": "rooms\\level4_master\\level4_master.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "da2d93b0-5fd4-4c20-afc4-2045df79a62c",
-            "Value": {
-                "id": "468faad3-69c5-4602-bf52-dc060bfb9937",
-                "resourcePath": "objects\\Controllable\\Controllable.yy",
-                "resourceType": "GMObject"
             }
         },
         {
