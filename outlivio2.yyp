@@ -122,15 +122,15 @@
             "Key": "5cc759c6-1b9f-44a8-afcf-ca5b773ea4f4",
             "Value": {
                 "id": "21b50509-e774-4810-9a03-bf9f703fb76c",
-                "resourcePath": "rooms\\room_layout\\room_layout.yy",
+                "resourcePath": "rooms\\master\\master.yy",
                 "resourceType": "GMRoom"
             }
         },
         {
-            "Key": "615663e9-2501-4559-8268-62aeb791be02",
+            "Key": "644eb79c-725c-4d80-a187-f953e612843b",
             "Value": {
-                "id": "0b1b1b07-2550-442c-a142-f52267feb64c",
-                "resourcePath": "rooms\\room_shootingrange\\room_shootingrange.yy",
+                "id": "29988051-c231-4700-91b3-ac5e21221d76",
+                "resourcePath": "rooms\\level2_master\\level2_master.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -194,7 +194,7 @@
             "Key": "88a401dc-8ee1-47d6-b09e-a24f56eb5587",
             "Value": {
                 "id": "a5a01be5-e379-46b4-8e52-f9db2cb091c6",
-                "resourcePath": "rooms\\room_testing\\room_testing.yy",
+                "resourcePath": "rooms\\rm_testing\\rm_testing.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "da027f0b-6bd7-4fe0-aafe-cf6e4b6c2574",
+            "Value": {
+                "id": "f73dfad4-f107-4ba2-81e9-7f8757da8a73",
+                "resourcePath": "rooms\\level4_master\\level4_master.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "da2d93b0-5fd4-4c20-afc4-2045df79a62c",
             "Value": {
                 "id": "468faad3-69c5-4602-bf52-dc060bfb9937",
@@ -375,11 +383,27 @@
             }
         },
         {
+            "Key": "e67b6fa1-9889-4ac9-a0de-611f5ac2cbc4",
+            "Value": {
+                "id": "665b5b18-4704-4f85-a51f-f7b6a157616a",
+                "resourcePath": "rooms\\level1_master\\level1_master.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ea4b18d8-daa7-4b72-a496-69ae263c8275",
             "Value": {
                 "id": "86dabb89-87e7-44fb-930e-5480f8425d25",
                 "resourcePath": "views\\ea4b18d8-daa7-4b72-a496-69ae263c8275.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed7483fc-e041-4817-b06d-c3df8d9aaee3",
+            "Value": {
+                "id": "57d81d56-c63e-4355-9c63-e4acdf1e6105",
+                "resourcePath": "rooms\\level3_master\\level3_master.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -396,14 +420,6 @@
                 "id": "a5ac4501-9ce7-473e-a991-7666bd3b2ea4",
                 "resourcePath": "views\\f1f56893-efbe-4c13-a8cc-14838a6f2d55.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f50385ad-9246-4a0c-8b3b-1d45fe87b2c2",
-            "Value": {
-                "id": "7a1332eb-9a69-4730-8a06-ac1a13544faa",
-                "resourcePath": "rooms\\room_training\\room_training.yy",
-                "resourceType": "GMRoom"
             }
         }
     ],
